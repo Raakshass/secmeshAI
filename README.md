@@ -62,6 +62,9 @@ We needed to execute our Python file in a trustless execution environment (TEE).
 - *Hugging Face: Libraries for implementing the **Zero-Shot Classification Pipeline* and leveraging the BART model.
 - *Scikit-Learn: For machine learning models such as **SVM* and *RandomForest*.
 - *Joblib*: For saving and loading machine learning models.
+- *smart contracts*: Facilitate secure interactions between the frontend and backend, handling queries and model execution.
+- *Next.js*:Framework for building the frontend.
+- *tailwind-css*
 
 ---
 
