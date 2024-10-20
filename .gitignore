@@ -1,9 +1,3 @@
-# Ignore the .env file containing sensitive information
+
+node_modules/
 .env
-
-# Ignore compiled Python files
-__pycache__/
-*.pyc
-
-# Ignore log files
-*.log
