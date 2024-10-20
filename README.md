@@ -89,14 +89,4 @@ We needed to execute our Python file in a trustless execution environment (TEE).
 
 ---
 
-## *Contributing*
-   We welcome contributions to improve the system! Feel free to:
-   - Fork this repository
-   - Create a new branch
-   - Submit a pull request
-
-If you wish to contribute a model:
-   - Ensure it’s compatible with the existing query-task framework.
-   - Upload the model, and we will verify its performance within the system.
-
 ---
